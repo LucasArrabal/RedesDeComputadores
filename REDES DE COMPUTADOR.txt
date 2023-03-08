@@ -1,0 +1,25 @@
+﻿REDES DE COMPUTADOR
+HOST : O host é um dispositivo que se conecta a uma rede de computadores e que pode fornecer serviços como armazenar arquivos, compartilhamento de impressoras, hospedagem de sites, e-mail, entre outros, o endereço IP  é usado no host para identificá-lo na rede e permitir que outros dispositivos se conectem a ele.
+
+
+SERVIDORES: Servidores são sistemas de computador projetados para fornecer recursos e serviços para outros dispositivos em uma rede. Eles são geralmente configurados com mais poder de processamento, memória e armazenamento do que computadores comuns, e são projetados para lidar com cargas de trabalho intensivas e demandas de tráfego de rede.
+
+
+Os servidores podem ser usados em diferentes finalidades, como hospedar sites, armazenar arquivos, gerenciar banco de dados, executar aplicativos, entre outros. 
+1. Servidores de arquivos: fornecem espaço em disco para armazenar arquivos e dados compartilhados entre usuários de uma rede.
+2. Servidores de impressão: fornecem acesso a impressoras compartilhadas por vários usuários.
+3. Servidores de e-mail: gerenciam a recepção, envio e armazenamento de e-mails.
+4. Servidores web: hospedam sites e aplicativos da web, permitindo que eles sejam acessados ​​por usuários em diferentes dispositivos.
+5. Servidores de banco de dados: gerenciam o armazenamento, acesso e atualização de informações em bancos de dados.
+6. Servidores de aplicativos: executam aplicativos que podem ser acessados ​​por usuários em diferentes dispositivos, como software de gerenciamento de projetos, CRM, ERP, entre outros.
+Os servidores geralmente sao administrados por administradores de rede, que monitoram o desempenho, a segurança e a disponibilidade dos servidores e configuram as configurações para garantir que os serviços sejam fornecidos adequadamente. Servidores dedicados também podem ser alugados de empresas especializadas em hospedagem de servidores, que fornecem recursos de hardware e software necessários para executar diferentes tarefas.
+
+
+ROTEADOR: Um roteador é um dispositivo de rede que permite que dispositivos conectados a ele possam se comunicar com outros dispositivos em uma rede. Ele é responsável por encaminhar os pacotes de dados entre diferentes redes, se através de cabos ou sem fio. Alguns dos recursos comuns de um roteador incluem:
+
+
+-NAT(Network Address Translation), que permite que vários dispositivos compartilhem um único endereço IP público;
+-Firewall, que ajuda a proteger a rede contra ataques externos;
+-DHCP(Dynamic Host Configuration Protocol) que fornece endereços IP para dispositivos conectados à rede;
+-QoS(Quality of Service), que permite priorizar o tráfego de rede com base em sua importância.
+Os roteadores podem ser usados em ambientes domésticos ou empresariais, e existem diversos tipos e modelos disponíveis no mercado, com diferentes recursos e capacidades
