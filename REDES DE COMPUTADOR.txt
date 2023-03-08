@@ -16,10 +16,18 @@ Os servidores geralmente sao administrados por administradores de rede, que moni
 
 
 ROTEADOR: Um roteador é um dispositivo de rede que permite que dispositivos conectados a ele possam se comunicar com outros dispositivos em uma rede. Ele é responsável por encaminhar os pacotes de dados entre diferentes redes, se através de cabos ou sem fio. Alguns dos recursos comuns de um roteador incluem:
-
-
 -NAT(Network Address Translation), que permite que vários dispositivos compartilhem um único endereço IP público;
 -Firewall, que ajuda a proteger a rede contra ataques externos;
 -DHCP(Dynamic Host Configuration Protocol) que fornece endereços IP para dispositivos conectados à rede;
 -QoS(Quality of Service), que permite priorizar o tráfego de rede com base em sua importância.
+
 Os roteadores podem ser usados em ambientes domésticos ou empresariais, e existem diversos tipos e modelos disponíveis no mercado, com diferentes recursos e capacidades
+
+Uma rede local (LAN - Local Area Network) é uma rede de computadores interconectados dentro de uma área geográfica limitada, como uma casa, um escritório ou um edifício. A LAN permite que os usuários compartilhem recursos, como impressoras, arquivos e conexão à Internet.
+
+As LANs podem ser construídas usando uma variedade de tecnologias, incluindo cabos de cobre, fibra ótica e wireless (sem fio). A topologia da rede LAN pode ser em estrela, barramento, anel ou malha.
+
+Os dispositivos de rede mais comuns em uma LAN incluem switches, roteadores e pontos de acesso sem fio. Os protocolos de rede LAN mais comuns são Ethernet e Wi-Fi.
+
+As LANs são amplamente utilizadas em empresas e organizações para facilitar a comunicação e o compartilhamento de recursos entre os funcionários. Elas também são usadas em ambientes domésticos para compartilhar recursos entre os membros da família
+
